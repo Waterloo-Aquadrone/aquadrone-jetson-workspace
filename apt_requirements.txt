@@ -1,0 +1,5 @@
+vim
+python-catkin-tools
+python-pip
+python3-pip
+ros-melodic-uuv*
