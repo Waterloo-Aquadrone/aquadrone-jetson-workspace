@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/aquadrone/aquadrone2020jetson/catkin_ws/devel/.private/imu_bno055/setup.sh

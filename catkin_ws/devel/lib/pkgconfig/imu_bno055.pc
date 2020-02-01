@@ -1,1 +1,0 @@
-/home/aquadrone/aquadrone2020jetson/catkin_ws/devel/.private/imu_bno055/lib/pkgconfig/imu_bno055.pc
