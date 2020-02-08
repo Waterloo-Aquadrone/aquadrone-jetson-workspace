@@ -4,3 +4,4 @@ rospkg
 catkin_pkg
 adafruit-circuitpython-pca9685
 Jetson.GPIO
+Adafruit-PlatformDetect
